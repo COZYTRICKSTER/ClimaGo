@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ClimaGo/static/css/main.a94794e8.css",
+    "main.js": "/ClimaGo/static/js/main.590b4464.js",
+    "static/media/cloud.png": "/ClimaGo/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/ClimaGo/index.html",
+    "main.a94794e8.css.map": "/ClimaGo/static/css/main.a94794e8.css.map",
+    "main.590b4464.js.map": "/ClimaGo/static/js/main.590b4464.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a94794e8.css",
+    "static/js/main.590b4464.js"
+  ]
+}
